@@ -376,7 +376,7 @@ Dobrosław
 Dobrosława
 Dobrowiest
 Dobrowit
-DobrowÃ³j
+Dobrowój
 Dobrymir
 Dolores
 Domamir
@@ -682,10 +682,10 @@ Jonatan
 Jordan
 Jowita
 Jozafat
-JÃ³zef
-JÃ³zefa
-JÃ³zefat
-JÃ³zefina
+Józef
+Józefa
+Józefat
+Józefina
 Juda
 Judyta
 Julia
@@ -1180,7 +1180,6 @@ Remigiusz
 Rena
 Renat
 Renata
-RenÃ©
 Rita
 Robert
 Roberta
@@ -1509,10 +1508,10 @@ Wojsława
 Wolfgang
 Wolimir
 Wolmar
-WrÃ³cimir
+Wrócimir
 Wrócisław
 Wrócisława
-WrÃ³ciwoj
+Wróciwoj
 Wrzesław
 Wrzesława
 Wszebąd
