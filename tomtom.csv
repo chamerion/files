@@ -1,0 +1,417 @@
+rank,city,country,congestion
+1,Bengaluru,India,71
+2,Manila,Philippines,71
+3,Bogota,Colombia,68
+4,Mumbai,India,65
+5,Pune,India,59
+6,Moscow region (oblast),Russia,59
+7,Lima,Peru,57
+8,New Delhi,India,56
+9,Istanbul,Turkey,55
+10,Jakarta,Indonesia,53
+11,Bangkok,Thailand,53
+12,Kyiv,Ukraine,53
+13,Mexico City,Mexico,52
+14,Bucharest,Romania,52
+15,Recife,Brazil,50
+16,Saint Petersburg,Russia,49
+17,Dublin,Ireland,48
+18,Odessa,Ukraine,47
+19,Lodz,Poland,47
+20,Rio de Janeiro,Brazil,46
+21,Tel Aviv,Israel,46
+22,Krakow,Poland,45
+23,Novosibirsk,Russia,45
+24,Sao Paulo,Brazil,45
+25,Samara,Russia,44
+26,Santiago,Chile,44
+27,Poznan,Poland,44
+28,Salvador,Brazil,43
+29,Kharkiv,Ukraine,43
+30,Athens,Greece,43
+31,Los Angeles,United States of America,42
+32,Tokyo,Japan,42
+33,Edinburgh,United Kingdom,41
+34,Chongqing,China,41
+35,Yekaterinburg,Russia,41
+36,Cairo,Egypt,40
+37,Warsaw,Poland,40
+38,Guangzhou,China,40
+39,Zhuhai,China,39
+40,Vancouver,Canada,39
+41,Wroclaw,Poland,39
+42,Paris,France,39
+43,Rome,Italy,38
+44,Brussels,Belgium,38
+45,London,United Kingdom,38
+46,Kuala Lumpur,Malaysia,37
+47,Dnipro,Ukraine,37
+48,Budapest,Hungary,37
+49,Shenzhen,China,37
+50,Fortaleza,Brazil,37
+51,Beijing,China,37
+52,New York,United States of America,37
+53,Luxembourg,Luxembourg,36
+54,Sofia,Bulgaria,36
+55,Bratislava,Slovakia,36
+56,Palermo,Italy,36
+57,Osaka,Japan,36
+58,Rostov-on-Don,Russia,36
+59,San Francisco,United States of America,36
+60,Belo Horizonte,Brazil,35
+61,Changsha,China,35
+62,Porto Alegre,Brazil,35
+63,Brighton and Hove,United Kingdom,35
+64,Taipei,Taiwan,35
+65,Chengdu,China,35
+66,Buenos Aires,Argentina,35
+67,Mons,Belgium,34
+68,Marseille,France,34
+69,Bournemouth,United Kingdom,34
+70,Hamburg,Germany,34
+71,Bydgoszcz,Poland,34
+72,Chelyabinsk,Russia,34
+73,Hull,United Kingdom,34
+74,Taichung,Taiwan,34
+75,Cork,Ireland,33
+76,Belfast,United Kingdom,33
+77,Geneva,Switzerland,33
+78,Changchun,China,33
+79,Southampton,United Kingdom,33
+80,Toronto,Canada,33
+81,Lisbon,Portugal,33
+82,"Gdansk, Gdynia and Sopot",Poland,33
+83,Bristol,United Kingdom,33
+84,San Jose,United States of America,33
+85,Nagoya,Japan,33
+86,Sydney,Australia,33
+87,Kaohsiung,Taiwan,33
+88,Manchester,United Kingdom,33
+89,Reading,United Kingdom,32
+90,Omsk,Russia,32
+91,Vilnius,Lithuania,32
+92,Naples,Italy,32
+93,Bordeaux,France,32
+94,Berlin,Germany,32
+95,Nizhny Novgorod,Russia,32
+96,Singapore,Singapore,32
+97,Antwerp,Belgium,32
+98,Leicester,United Kingdom,32
+99,Grenoble,France,32
+100,Ankara,Turkey,32
+101,Cape Town,South Africa,32
+102,Wiesbaden,Germany,32
+103,Zurich,Switzerland,32
+104,Messina,Italy,31
+105,Auckland,New Zealand,31
+106,Tomsk,Russia,31
+107,Milan,Italy,31
+108,Hong Kong,Hong Kong,31
+109,Porto,Portugal,31
+110,Seattle,United States of America,31
+111,Tallinn,Estonia,31
+112,Xiamen,China,31
+113,Miami,United States of America,31
+114,Tainan,Taiwan,31
+115,Shanghai,China,31
+116,Nice,France,31
+117,Lugano,Switzerland,31
+118,Limerick,Ireland,31
+119,Brno,Czechia,30
+120,Lyon,France,30
+121,Johannesburg,South Africa,30
+122,Szczecin,Poland,30
+123,Melbourne,Australia,30
+124,Munich,Germany,30
+125,Cardiff,United Kingdom,30
+126,Nanjing,China,30
+127,Taoyuan,Taiwan,30
+128,Genoa,Italy,30
+129,Nuremberg,Germany,30
+130,Thessaloniki,Greece,30
+131,Leiden,Netherlands,30
+132,Stuttgart,Germany,30
+133,Sapporo,Japan,30
+134,Izmir,Turkey,29
+135,Bonn,Germany,29
+136,Prague,Czechia,29
+137,Catania,Italy,29
+138,Montreal,Canada,29
+139,Ottawa,Canada,29
+140,Barcelona,Spain,29
+141,Washington,United States of America,29
+142,Toulon,France,29
+143,Kazan,Russia,29
+144,Antalya,Turkey,29
+145,Liverpool,United Kingdom,28
+146,Toulouse,France,28
+147,Wellington,New Zealand,28
+148,Chicago,United States of America,28
+149,Curitiba,Brazil,28
+150,Kassel,Germany,28
+151,The Hague,Netherlands,28
+152,Bari,Italy,28
+153,Birmingham-Wolverhampton,United Kingdom,28
+154,Hangzhou,China,28
+155,Vienna,Austria,28
+156,Honolulu,United States of America,28
+157,Fuzhou,China,28
+158,Stoke-on-Trent,United Kingdom,28
+159,Shenyang,China,28
+160,Strasbourg,France,28
+161,Sheffield,United Kingdom,28
+162,Austin,United States of America,27
+163,Haarlem,Netherlands,27
+164,Wuhan,China,27
+165,Nantes,France,27
+166,Nottingham,United Kingdom,27
+167,Reggio Calabria,Italy,27
+168,Bremen,Germany,27
+169,Stockholm,Sweden,27
+170,Riga,Latvia,27
+171,Lausanne,Switzerland,27
+172,Lublin,Poland,27
+173,Salzburg,Austria,27
+174,Frankfurt am Main,Germany,27
+175,Nijmegen,Netherlands,27
+176,Turin,Italy,27
+177,Leeds-Bradford,United Kingdom,27
+178,Kobe,Japan,26
+179,Swansea,United Kingdom,26
+180,Baton Rouge,United States of America,26
+181,Adana,Turkey,26
+182,San Diego,United States of America,26
+183,Basel,Switzerland,26
+184,Boston,United States of America,26
+185,Montpellier,France,26
+186,Shijiazhuang,China,26
+187,Kosice,Slovakia,26
+188,Portsmouth,United Kingdom,26
+189,Portland,United States of America,26
+190,Amsterdam,Netherlands,26
+191,Bialystok,Poland,26
+192,Nashville,United States of America,26
+193,Riverside,United States of America,26
+194,Clermont-Ferrand,France,26
+195,Cologne,Germany,26
+196,Atlanta,United States of America,26
+197,Kiel,Germany,26
+198,Graz,Austria,26
+199,Arnhem,Netherlands,26
+200,Ljubljana,Slovenia,26
+201,Newcastle-Sunderland,United Kingdom,25
+202,Granada,Spain,25
+203,Lille,France,25
+204,Glasgow,United Kingdom,25
+205,Bologna,Italy,25
+206,Sacramento,United States of America,25
+207,Pretoria,South Africa,25
+208,Bursa,Turkey,25
+209,Hamilton,New Zealand,25
+210,Florence,Italy,25
+211,Dresden,Germany,25
+212,Brisbane,Australia,25
+213,Halifax,Canada,25
+214,Coventry,United Kingdom,25
+215,Rotterdam,Netherlands,25
+216,Kuwait City,Kuwait,25
+217,Ningbo,China,24
+218,Liege,Belgium,24
+219,Dusseldorf,Germany,24
+220,Palma de Mallorca,Spain,24
+221,Philadelphia,United States of America,24
+222,Rennes,France,24
+223,Riyadh,Saudi Arabia,24
+224,Houston,United States of America,24
+225,Adelaide,Australia,24
+226,Tampa,United States of America,24
+227,Prato,Italy,24
+228,Leipzig,Germany,24
+229,Groningen,Netherlands,24
+230,Gold Coast,Australia,24
+231,Brest,France,23
+232,Freiburg,Germany,23
+233,Tianjin,China,23
+234,Cagliari,Italy,23
+235,Ruhr region west,Germany,23
+236,Gaziantep,Turkey,23
+237,Quanzhou,China,23
+238,Denver,United States of America,23
+239,Innsbruck,Austria,23
+240,London,Canada,23
+241,Pescara,Italy,23
+242,Hobart,Australia,23
+243,Madrid,Spain,23
+244,Santa Cruz de Tenerife,Spain,23
+245,Preston,United Kingdom,23
+246,Mersin,Turkey,23
+247,Winnipeg,Canada,22
+248,Dongguan,China,22
+249,East London,South Africa,22
+250,Oslo,Norway,22
+251,Karlsruhe,Germany,22
+252,Augsburg,Germany,22
+253,Rouen,France,22
+254,Orlando,United States of America,22
+255,Utrecht,Netherlands,22
+256,Eindhoven,Netherlands,22
+257,Monchengladbach,Germany,22
+258,Linz,Austria,22
+259,Copenhagen,Denmark,22
+260,Charleston,United States of America,22
+261,Aarhus,Denmark,22
+262,New Orleans,United States of America,22
+263,Quebec,Canada,22
+264,Boise,United States of America,21
+265,Dubai,United Arab Emirates,21
+266,Uppsala,Sweden,21
+267,Bielsko-Biala,Poland,21
+268,Fresno,United States of America,21
+269,Christchurch,New Zealand,21
+270,Brasilia,Brazil,21
+271,Mannheim,Germany,21
+272,Cape Coral-Fort Myers,United States of America,21
+273,Munster,Germany,21
+274,Hannover,Germany,21
+275,Breda,Netherlands,21
+276,Le Havre,France,21
+277,Ruhr region east,Germany,21
+278,Seville,Spain,21
+279,Pittsburgh,United States of America,21
+280,Las Vegas,United States of America,21
+281,Murcia,Spain,21
+282,Trieste,Italy,21
+283,Bakersfield,United States of America,21
+284,Nancy,France,21
+285,Verona,Italy,20
+286,Saint-Etienne,France,20
+287,Bern,Switzerland,20
+288,Perth,Australia,20
+289,Leuven,Belgium,20
+290,Tauranga,New Zealand,20
+291,Tilburg,Netherlands,20
+292,Valencia,Spain,20
+293,Baltimore,United States of America,20
+294,Apeldoorn,Netherlands,20
+295,Orleans,France,20
+296,Malaga,Spain,20
+297,Taranto,Italy,20
+298,Dunedin,New Zealand,20
+299,Suzhou,China,20
+300,Livorno,Italy,20
+301,Newcastle,Australia,20
+302,Providence,United States of America,20
+303,Amersfoort,Netherlands,20
+304,Ghent,Belgium,20
+305,Middlesbrough,United Kingdom,20
+306,Ostrava,Czechia,20
+307,Charlotte,United States of America,19
+308,Dallas-Fort Worth,United States of America,19
+309,Jeddah,Saudi Arabia,19
+310,McAllen,United States of America,19
+311,Wuxi,China,19
+312,Hamilton,Canada,19
+313,Namur,Belgium,19
+314,Durban,South Africa,19
+315,A Coruna,Spain,19
+316,Tucson,United States of America,19
+317,Turku,Finland,19
+318,San Antonio,United States of America,19
+319,Helsinki,Finland,19
+320,Katowice urban area,Poland,19
+321,Salt Lake City,United States of America,19
+322,Gothenburg,Sweden,18
+323,Oxnard-Thousand Oaks-Ventura,United States of America,18
+324,Avignon,France,18
+325,Reykjavik,Iceland,18
+326,Greenville,United States of America,18
+327,Raleigh,United States of America,18
+328,Phoenix,United States of America,18
+329,Konya,Turkey,18
+330,Odense,Denmark,18
+331,Las Palmas,Spain,18
+332,Alicante,Spain,18
+333,Bielefeld,Germany,18
+334,Braga,Portugal,18
+335,Birmingham,United States of America,18
+336,Zwolle,Netherlands,18
+337,Le Mans,France,18
+338,Calgary,Canada,18
+339,Reggio Emilia,Italy,18
+340,Dijon,France,17
+341,Colorado Springs,United States of America,17
+342,Wuppertal,Germany,17
+343,Jacksonville,United States of America,17
+344,Albuquerque,United States of America,17
+345,Padua,Italy,17
+346,Parma,Italy,17
+347,Santander,Spain,17
+348,Den Bosch,Netherlands,17
+349,Hartford,United States of America,17
+350,Canberra,Australia,17
+351,Funchal,Portugal,17
+352,Minneapolis,United States of America,17
+353,Kayseri,Turkey,17
+354,Ravenna,Italy,17
+355,Bruges,Belgium,16
+356,Columbus,United States of America,16
+357,Cincinnati,United States of America,16
+358,Reims,France,16
+359,Edmonton,Canada,16
+360,New Haven,United States of America,16
+361,Detroit,United States of America,16
+362,Virginia Beach,United States of America,16
+363,El Paso,United States of America,16
+364,Kitchener-Waterloo,Canada,16
+365,Tours,France,16
+366,Grand Rapids,United States of America,16
+367,Albany,United States of America,16
+368,Gijon,Spain,16
+369,Pamplona,Spain,16
+370,Louisville,United States of America,15
+371,Kortrijk,Belgium,15
+372,Bergen,Norway,15
+373,Allentown,United States of America,15
+374,Vigo,Spain,15
+375,Coimbra,Portugal,15
+376,Tampere,Finland,15
+377,Worcester,United States of America,15
+378,Trondheim,Norway,15
+379,Malmo,Sweden,15
+380,Buffalo,United States of America,15
+381,Memphis,United States of America,15
+382,Modena,Italy,14
+383,St. Louis,United States of America,14
+384,Indianapolis,United States of America,14
+385,Cordoba,Spain,14
+386,Brescia,Italy,14
+387,Vitoria-Gasteiz,Spain,14
+388,Omaha-Council Bluffs,United States of America,14
+389,Oklahoma City,United States of America,14
+390,Cartagena,Spain,14
+391,Zaragoza,Spain,14
+392,Rochester,United States of America,14
+393,San Sebastian,Spain,14
+394,Wollongong,Australia,13
+395,Charleroi,Belgium,13
+396,Valladolid,Spain,13
+397,Stavanger,Norway,13
+398,Oviedo,Spain,13
+399,Columbia,United States of America,13
+400,Milwaukee,United States of America,13
+401,Bilbao,Spain,13
+402,Bloemfontein,South Africa,13
+403,Tulsa,United States of America,13
+404,Cleveland,United States of America,12
+405,Knoxville,United States of America,12
+406,Kansas City,United States of America,12
+407,Richmond,United States of America,12
+408,Winston-Salem,United States of America,12
+409,Little Rock,United States of America,11
+410,Abu Dhabi,United Arab Emirates,10
+411,Almere,Netherlands,10
+412,Dayton,United States of America,10
+413,Syracuse,United States of America,10
+414,Akron,United States of America,10
+415,Cadiz,Spain,10
+416,Greensboro-High Point,United States of America,9
